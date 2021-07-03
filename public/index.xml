@@ -5,25 +5,6 @@
     <link>http://ryan_thally.net/</link>
     <description>Recent content on Ryan Thally</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sat, 03 Jul 2021 15:11:57 -0400</lastBuildDate><atom:link href="http://ryan_thally.net/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My First Post</title>
-      <link>http://ryan_thally.net/posts/my-first-post/</link>
-      <pubDate>Sat, 03 Jul 2021 15:11:57 -0400</pubDate>
-      
-      <guid>http://ryan_thally.net/posts/my-first-post/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>http://ryan_thally.net/projects/my-first-post/</link>
-      <pubDate>Sat, 03 Jul 2021 15:11:57 -0400</pubDate>
-      
-      <guid>http://ryan_thally.net/projects/my-first-post/</guid>
-      <description></description>
-    </item>
-    
+    <language>en</language><atom:link href="http://ryan_thally.net/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
